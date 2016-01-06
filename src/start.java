@@ -19,14 +19,14 @@ public class start
 		System.out.println(RedBlack2UDraw(RB));
 		System.out.println(tD234ToUDraw(RB));
 
-		PatriciaTreeStrings pTree = new PatriciaTreeStrings();
+		// PatriciaTreeStrings pTree = new PatriciaTreeStrings();
 		
-		pTree.insert("romane");
-		pTree.insert("romanus");
-		pTree.insert("romulus");
-		pTree.insert("ruben");
+		// pTree.insert("romane");
+		// pTree.insert("romanus");
+		// pTree.insert("romulus");
+		// pTree.insert("ruben");
 		
-		System.out.println(Patricia2UDraw(pTree));
+		// System.out.println(Patricia2UDraw(pTree));
 		
 	}
 	
